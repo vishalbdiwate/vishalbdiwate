@@ -21,7 +21,6 @@ Combining a **B.Com background** with deep technical expertise, I bring a unique
 * **Cloud Infrastructure (AWS):** VPC, EC2, IAM, S3, RDS, Route 53, Auto Scaling, Load Balancers (ALB)
 * **Tools & Practices:** Git & GitHub, YAML (Ansible configuration), HCL (Terraform provisioning), Vim/VS Code, Linux SSH Management, Technical Troubleshooting & Documentation
 
-
 ---
 
 ### 📁 Featured Capstone Projects
